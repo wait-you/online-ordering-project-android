@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_shop_detail.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_shop_detail.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_clear.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/dialog_clear.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_food.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_food.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_shop.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_shop.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/payment.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/payment.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_item.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/menu_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_head.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/order_head.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/car_item.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/car_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_item.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/order_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shop_detail_head.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/shop_detail_head.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/car.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/car.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/title_bar.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/qr_code.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/qr_code.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shop_car.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/shop_car.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shop_item.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/shop_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/car_list.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/car_list.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_order.xml",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_order.xml"
+    }
+]

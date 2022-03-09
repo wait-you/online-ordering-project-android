@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_payment_bg_selector.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/payment_bg_selector.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_shop_car.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/shop_car.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_car.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/car.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_activity_food.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_food.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_qr_code.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/qr_code.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_car_minus.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/car_minus.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_shop_car.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/shop_car.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_menu_item_bg_selector.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/menu_item_bg_selector.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_title_bar.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_payment.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/payment.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_shop_item.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/shop_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_time_icon.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/time_icon.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_dialog_clear.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/dialog_clear.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_badge_bg.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/badge_bg.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_order_item.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/order_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_go_back_selector.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/go_back_selector.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_taste_bg.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/taste_bg.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_activity_order.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_order.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_shop_car_empty.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/shop_car_empty.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_activity_shop_detail.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_shop_detail.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_corner_bg.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/corner_bg.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_banner.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/banner.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_iv_back_selected.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/iv_back_selected.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_activity_shop.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/activity_shop.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_item_bg_selector.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/item_bg_selector.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_icon_clear.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/icon_clear.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/xml_network_config.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/xml/network_config.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/anim_slide_bottom_to_top.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/anim/slide_bottom_to_top.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_car_item.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/car_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/meteor/code/School/Order/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_menu_item.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/menu_item.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_iv_back.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/iv_back.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_add_car_selected.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/add_car_selected.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_car_add.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/car_add.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_car_list.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/car_list.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable_add_car_selector.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable/add_car_selector.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/drawable-hdpi_add_car_normal.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/drawable-hdpi/add_car_normal.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_qr_code.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/qr_code.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_shop_detail_head.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/shop_detail_head.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/layout_order_head.xml.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/layout/order_head.xml"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/meteor/code/School/Order/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/meteor/code/School/Order/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

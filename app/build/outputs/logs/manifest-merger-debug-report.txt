@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] /usr/local/maven_respository/caches/transforms-3/5a5b2811be9727232987a92a911a03a4/transformed/viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.1] /usr/local/maven_respository/caches/transforms-3/9c96f63d66d8a943b6816e508d508757/transformed/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /usr/local/maven_respository/caches/transforms-3/ddde565294592dbc32eb6eeeefe41484/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /usr/local/maven_respository/caches/transforms-3/dac77df5ded1de47046ae93e8319829a/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /usr/local/maven_respository/caches/transforms-3/e21117f9eafcf1fa369d28fb8a64ae9c/transformed/glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.2.1] /usr/local/maven_respository/caches/transforms-3/afef64ab5692d418cf0f3eb169335ce9/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /usr/local/maven_respository/caches/transforms-3/833cc8ca1cf01a57f1cd8a7bc9696177/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /usr/local/maven_respository/caches/transforms-3/b267b004a8baf6cbb962d288765f48fe/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /usr/local/maven_respository/caches/transforms-3/9fe9ddebebb8dd69c5483838aa591a37/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /usr/local/maven_respository/caches/transforms-3/1528d25e38a0c72e80331e23a5b2f6e0/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /usr/local/maven_respository/caches/transforms-3/68053695b58e905e977f7be495c1fcdd/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /usr/local/maven_respository/caches/transforms-3/dff966bdb55b32c935a83ff0b758197c/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /usr/local/maven_respository/caches/transforms-3/5233afcf7d8679e571cdc05fd5c7e375/transformed/gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /usr/local/maven_respository/caches/transforms-3/1ac892ac8473c0bd5db2e4d871e4da7b/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/maven_respository/caches/transforms-3/a34bdf07717d52f6866da826a5b35ed0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /usr/local/maven_respository/caches/transforms-3/baf995fceeb2ce87da843b697fb59ad6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /usr/local/maven_respository/caches/transforms-3/5fa444be2d4cb53fb9b0e14dfdbbca66/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/maven_respository/caches/transforms-3/264af3d487098015b32cdd3974283032/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/maven_respository/caches/transforms-3/8148a98a26af7c5d201034f296d62c00/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /usr/local/maven_respository/caches/transforms-3/4580a04c351f119271ee04043d74b0c1/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /usr/local/maven_respository/caches/transforms-3/cf6a0909efbb46f52619f9b8c9cb2645/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /usr/local/maven_respository/caches/transforms-3/b970cf6900cbaaf1ec8aaf27d5689f82/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /usr/local/maven_respository/caches/transforms-3/890f1394bf5f87440621d24b102e1346/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/maven_respository/caches/transforms-3/0179006ca1cff3341ef7827c2635bfec/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /usr/local/maven_respository/caches/transforms-3/b5cc641fbd347000927264e82b30a11b/transformed/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /usr/local/maven_respository/caches/transforms-3/0fd78db45f4fdbfd81f5be7ed32b8f9b/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /usr/local/maven_respository/caches/transforms-3/e5a2232be2b5f175dd6405e06755fd33/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /usr/local/maven_respository/caches/transforms-3/2162416b6d5b4fb76778b9e5121e51b0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /usr/local/maven_respository/caches/transforms-3/0a9927b2585388aa047bb968934dade2/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /usr/local/maven_respository/caches/transforms-3/8c69bbd9516dbbac82d689226b873d3c/transformed/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /usr/local/maven_respository/caches/transforms-3/efc6e4319e761dba8f4e23d5608efab8/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /usr/local/maven_respository/caches/transforms-3/0cd4a53b3fe7bf281e0d557442b47b93/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /usr/local/maven_respository/caches/transforms-3/ff7b48fba4043fbd2c544eb854113901/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /usr/local/maven_respository/caches/transforms-3/7014635675bc40eb1b71f352b2d81f11/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/maven_respository/caches/transforms-3/6f339a1c866f9177bfbfce0e4449d6c6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/maven_respository/caches/transforms-3/3b53d3625ae2ab9f0b98fc5e93cca919/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /usr/local/maven_respository/caches/transforms-3/f931627c8d3217959d18bacec7c0bdd2/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /usr/local/maven_respository/caches/transforms-3/4314461aecff50508ba22bd4481e4e49/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /usr/local/maven_respository/caches/transforms-3/bf1d37e8347d48f6b96091df8979225a/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:3:11-36
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /usr/local/maven_respository/caches/transforms-3/e21117f9eafcf1fa369d28fb8a64ae9c/transformed/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /usr/local/maven_respository/caches/transforms-3/e21117f9eafcf1fa369d28fb8a64ae9c/transformed/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.material:material:1.2.1] /usr/local/maven_respository/caches/transforms-3/afef64ab5692d418cf0f3eb169335ce9/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /usr/local/maven_respository/caches/transforms-3/afef64ab5692d418cf0f3eb169335ce9/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /usr/local/maven_respository/caches/transforms-3/9fe9ddebebb8dd69c5483838aa591a37/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /usr/local/maven_respository/caches/transforms-3/9fe9ddebebb8dd69c5483838aa591a37/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /usr/local/maven_respository/caches/transforms-3/68053695b58e905e977f7be495c1fcdd/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /usr/local/maven_respository/caches/transforms-3/68053695b58e905e977f7be495c1fcdd/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /usr/local/maven_respository/caches/transforms-3/5233afcf7d8679e571cdc05fd5c7e375/transformed/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /usr/local/maven_respository/caches/transforms-3/5233afcf7d8679e571cdc05fd5c7e375/transformed/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /usr/local/maven_respository/caches/transforms-3/0fd78db45f4fdbfd81f5be7ed32b8f9b/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /usr/local/maven_respository/caches/transforms-3/0fd78db45f4fdbfd81f5be7ed32b8f9b/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /usr/local/maven_respository/caches/transforms-3/4314461aecff50508ba22bd4481e4e49/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /usr/local/maven_respository/caches/transforms-3/4314461aecff50508ba22bd4481e4e49/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /usr/local/maven_respository/caches/transforms-3/0fd78db45f4fdbfd81f5be7ed32b8f9b/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:13:13-49
+	android:icon
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:10:13-44
+	android:allowBackup
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:15:13-47
+	android:networkSecurityConfig
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:12:13-64
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:8:13-45
+activity#cn.wenhe9.order.ui.order.OrderActivity
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:16:9-17:20
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:16:19-57
+activity#cn.wenhe9.order.ui.food.FoodActivity
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:18:9-21:20
+	android:theme
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:20:17-65
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:19:17-53
+activity#cn.wenhe9.order.ui.food.ShopDetailActivity
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:22:19-61
+activity#cn.wenhe9.order.ui.shop.ShopActivity
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:24:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.0] /usr/local/maven_respository/caches/transforms-3/5a5b2811be9727232987a92a911a03a4/transformed/viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] /usr/local/maven_respository/caches/transforms-3/5a5b2811be9727232987a92a911a03a4/transformed/viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.1] /usr/local/maven_respository/caches/transforms-3/9c96f63d66d8a943b6816e508d508757/transformed/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /usr/local/maven_respository/caches/transforms-3/9c96f63d66d8a943b6816e508d508757/transformed/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /usr/local/maven_respository/caches/transforms-3/ddde565294592dbc32eb6eeeefe41484/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /usr/local/maven_respository/caches/transforms-3/ddde565294592dbc32eb6eeeefe41484/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /usr/local/maven_respository/caches/transforms-3/dac77df5ded1de47046ae93e8319829a/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /usr/local/maven_respository/caches/transforms-3/dac77df5ded1de47046ae93e8319829a/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /usr/local/maven_respository/caches/transforms-3/e21117f9eafcf1fa369d28fb8a64ae9c/transformed/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /usr/local/maven_respository/caches/transforms-3/e21117f9eafcf1fa369d28fb8a64ae9c/transformed/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.2.1] /usr/local/maven_respository/caches/transforms-3/afef64ab5692d418cf0f3eb169335ce9/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /usr/local/maven_respository/caches/transforms-3/afef64ab5692d418cf0f3eb169335ce9/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /usr/local/maven_respository/caches/transforms-3/833cc8ca1cf01a57f1cd8a7bc9696177/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /usr/local/maven_respository/caches/transforms-3/833cc8ca1cf01a57f1cd8a7bc9696177/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /usr/local/maven_respository/caches/transforms-3/b267b004a8baf6cbb962d288765f48fe/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /usr/local/maven_respository/caches/transforms-3/b267b004a8baf6cbb962d288765f48fe/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /usr/local/maven_respository/caches/transforms-3/9fe9ddebebb8dd69c5483838aa591a37/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /usr/local/maven_respository/caches/transforms-3/9fe9ddebebb8dd69c5483838aa591a37/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /usr/local/maven_respository/caches/transforms-3/1528d25e38a0c72e80331e23a5b2f6e0/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /usr/local/maven_respository/caches/transforms-3/1528d25e38a0c72e80331e23a5b2f6e0/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /usr/local/maven_respository/caches/transforms-3/68053695b58e905e977f7be495c1fcdd/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /usr/local/maven_respository/caches/transforms-3/68053695b58e905e977f7be495c1fcdd/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /usr/local/maven_respository/caches/transforms-3/dff966bdb55b32c935a83ff0b758197c/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /usr/local/maven_respository/caches/transforms-3/dff966bdb55b32c935a83ff0b758197c/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /usr/local/maven_respository/caches/transforms-3/5233afcf7d8679e571cdc05fd5c7e375/transformed/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /usr/local/maven_respository/caches/transforms-3/5233afcf7d8679e571cdc05fd5c7e375/transformed/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /usr/local/maven_respository/caches/transforms-3/1ac892ac8473c0bd5db2e4d871e4da7b/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /usr/local/maven_respository/caches/transforms-3/1ac892ac8473c0bd5db2e4d871e4da7b/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/maven_respository/caches/transforms-3/a34bdf07717d52f6866da826a5b35ed0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /usr/local/maven_respository/caches/transforms-3/a34bdf07717d52f6866da826a5b35ed0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /usr/local/maven_respository/caches/transforms-3/baf995fceeb2ce87da843b697fb59ad6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /usr/local/maven_respository/caches/transforms-3/baf995fceeb2ce87da843b697fb59ad6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /usr/local/maven_respository/caches/transforms-3/5fa444be2d4cb53fb9b0e14dfdbbca66/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /usr/local/maven_respository/caches/transforms-3/5fa444be2d4cb53fb9b0e14dfdbbca66/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/maven_respository/caches/transforms-3/264af3d487098015b32cdd3974283032/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /usr/local/maven_respository/caches/transforms-3/264af3d487098015b32cdd3974283032/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/maven_respository/caches/transforms-3/8148a98a26af7c5d201034f296d62c00/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /usr/local/maven_respository/caches/transforms-3/8148a98a26af7c5d201034f296d62c00/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /usr/local/maven_respository/caches/transforms-3/4580a04c351f119271ee04043d74b0c1/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /usr/local/maven_respository/caches/transforms-3/4580a04c351f119271ee04043d74b0c1/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /usr/local/maven_respository/caches/transforms-3/cf6a0909efbb46f52619f9b8c9cb2645/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /usr/local/maven_respository/caches/transforms-3/cf6a0909efbb46f52619f9b8c9cb2645/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /usr/local/maven_respository/caches/transforms-3/b970cf6900cbaaf1ec8aaf27d5689f82/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /usr/local/maven_respository/caches/transforms-3/b970cf6900cbaaf1ec8aaf27d5689f82/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /usr/local/maven_respository/caches/transforms-3/890f1394bf5f87440621d24b102e1346/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /usr/local/maven_respository/caches/transforms-3/890f1394bf5f87440621d24b102e1346/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/maven_respository/caches/transforms-3/0179006ca1cff3341ef7827c2635bfec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /usr/local/maven_respository/caches/transforms-3/0179006ca1cff3341ef7827c2635bfec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /usr/local/maven_respository/caches/transforms-3/b5cc641fbd347000927264e82b30a11b/transformed/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /usr/local/maven_respository/caches/transforms-3/b5cc641fbd347000927264e82b30a11b/transformed/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /usr/local/maven_respository/caches/transforms-3/0fd78db45f4fdbfd81f5be7ed32b8f9b/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /usr/local/maven_respository/caches/transforms-3/0fd78db45f4fdbfd81f5be7ed32b8f9b/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /usr/local/maven_respository/caches/transforms-3/e5a2232be2b5f175dd6405e06755fd33/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /usr/local/maven_respository/caches/transforms-3/e5a2232be2b5f175dd6405e06755fd33/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /usr/local/maven_respository/caches/transforms-3/2162416b6d5b4fb76778b9e5121e51b0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /usr/local/maven_respository/caches/transforms-3/2162416b6d5b4fb76778b9e5121e51b0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /usr/local/maven_respository/caches/transforms-3/0a9927b2585388aa047bb968934dade2/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /usr/local/maven_respository/caches/transforms-3/0a9927b2585388aa047bb968934dade2/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /usr/local/maven_respository/caches/transforms-3/8c69bbd9516dbbac82d689226b873d3c/transformed/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /usr/local/maven_respository/caches/transforms-3/8c69bbd9516dbbac82d689226b873d3c/transformed/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /usr/local/maven_respository/caches/transforms-3/efc6e4319e761dba8f4e23d5608efab8/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /usr/local/maven_respository/caches/transforms-3/efc6e4319e761dba8f4e23d5608efab8/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /usr/local/maven_respository/caches/transforms-3/0cd4a53b3fe7bf281e0d557442b47b93/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /usr/local/maven_respository/caches/transforms-3/0cd4a53b3fe7bf281e0d557442b47b93/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /usr/local/maven_respository/caches/transforms-3/ff7b48fba4043fbd2c544eb854113901/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /usr/local/maven_respository/caches/transforms-3/ff7b48fba4043fbd2c544eb854113901/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /usr/local/maven_respository/caches/transforms-3/7014635675bc40eb1b71f352b2d81f11/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /usr/local/maven_respository/caches/transforms-3/7014635675bc40eb1b71f352b2d81f11/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/maven_respository/caches/transforms-3/6f339a1c866f9177bfbfce0e4449d6c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /usr/local/maven_respository/caches/transforms-3/6f339a1c866f9177bfbfce0e4449d6c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/maven_respository/caches/transforms-3/3b53d3625ae2ab9f0b98fc5e93cca919/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /usr/local/maven_respository/caches/transforms-3/3b53d3625ae2ab9f0b98fc5e93cca919/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /usr/local/maven_respository/caches/transforms-3/f931627c8d3217959d18bacec7c0bdd2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /usr/local/maven_respository/caches/transforms-3/f931627c8d3217959d18bacec7c0bdd2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /usr/local/maven_respository/caches/transforms-3/4314461aecff50508ba22bd4481e4e49/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /usr/local/maven_respository/caches/transforms-3/4314461aecff50508ba22bd4481e4e49/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /usr/local/maven_respository/caches/transforms-3/bf1d37e8347d48f6b96091df8979225a/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /usr/local/maven_respository/caches/transforms-3/bf1d37e8347d48f6b96091df8979225a/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		ADDED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+		INJECTED from /home/meteor/code/School/Order/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /usr/local/maven_respository/caches/transforms-3/a91bbb7ffac7017715ae7ebffe96d6dd/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

@@ -1,0 +1,36 @@
+cn/wenhe9/order/databinding/TitleBarBinding.java
+ cn.wenhe9.order.databinding.TitleBarBinding
+cn/wenhe9/order/databinding/ActivityFoodBinding.java
+ cn.wenhe9.order.databinding.ActivityFoodBinding
+cn/wenhe9/order/databinding/PaymentBinding.java
+ cn.wenhe9.order.databinding.PaymentBinding
+cn/wenhe9/order/BuildConfig.java
+ cn.wenhe9.order.BuildConfig
+cn/wenhe9/order/databinding/ShopItemBinding.java
+ cn.wenhe9.order.databinding.ShopItemBinding
+cn/wenhe9/order/databinding/OrderItemBinding.java
+ cn.wenhe9.order.databinding.OrderItemBinding
+cn/wenhe9/order/databinding/QrCodeBinding.java
+ cn.wenhe9.order.databinding.QrCodeBinding
+cn/wenhe9/order/databinding/ShopCarBinding.java
+ cn.wenhe9.order.databinding.ShopCarBinding
+cn/wenhe9/order/databinding/CarListBinding.java
+ cn.wenhe9.order.databinding.CarListBinding
+cn/wenhe9/order/databinding/ActivityShopDetailBinding.java
+ cn.wenhe9.order.databinding.ActivityShopDetailBinding
+cn/wenhe9/order/databinding/MenuItemBinding.java
+ cn.wenhe9.order.databinding.MenuItemBinding
+cn/wenhe9/order/databinding/OrderHeadBinding.java
+ cn.wenhe9.order.databinding.OrderHeadBinding
+cn/wenhe9/order/databinding/ShopDetailHeadBinding.java
+ cn.wenhe9.order.databinding.ShopDetailHeadBinding
+cn/wenhe9/order/databinding/DialogClearBinding.java
+ cn.wenhe9.order.databinding.DialogClearBinding
+cn/wenhe9/order/databinding/CarBinding.java
+ cn.wenhe9.order.databinding.CarBinding
+cn/wenhe9/order/databinding/CarItemBinding.java
+ cn.wenhe9.order.databinding.CarItemBinding
+cn/wenhe9/order/databinding/ActivityShopBinding.java
+ cn.wenhe9.order.databinding.ActivityShopBinding
+cn/wenhe9/order/databinding/ActivityOrderBinding.java
+ cn.wenhe9.order.databinding.ActivityOrderBinding
